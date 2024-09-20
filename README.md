@@ -1,6 +1,6 @@
 # Domotic-Controls
 The GitHub Webpage for the Domotic Controls app. This app connects to your device.
 
-[Privacy Policy](https://varfield-g.github.io/Domotic-Controls/Privacy%20Policy)
+[Privacy Policy](Privacy%20Policy.md)
 
-[Terms and Conditions](https://varfield-g.github.io/Domotic-Controls/Terms%20and%20Conditions)
+[Terms and Conditions](Terms%20and%20Conditions.md)
